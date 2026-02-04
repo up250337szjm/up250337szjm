@@ -5,11 +5,15 @@ Este repositorio tiene la finalidad de trabajar la parte de python y git que aun
 Estudie la preparatoria en Michoacan, en una escuela privada llamada "Preparatoria José Sixto Verduzco".
 Ademas estoy estudiando Japones (no me gusta) y ingles. 
 
+
 💬 En mi formacion de preparatoria lleve un semestre de programacion en lenguajes como HTML y C++
 
-⚡ Me gusta aprender cosas nuevas, los autos, el blackjack y las gueras fresitas 🤩 
+
+⚡ Me gusta aprender cosas nuevas, los autos, el blackjack, la F1, el natagod, y las gueras fresitas 😋
+
 
 📫 Mi correo es: up250337@alumnos.upa.edu.mx 
+
 
 ✨Mi IG: <https://www.instagram.com/martn_srtz> 
 <!--
