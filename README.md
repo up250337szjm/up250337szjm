@@ -1,4 +1,6 @@
-## Hi there 👋
+# ¡Holaaa! Soy José Martín Serrato Zamora 👋
+
+Soy alumno de la UPA (Universidad Politecnica de Aguascalientes)
 
 <!--
 **up250337szjm/up250337szjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
