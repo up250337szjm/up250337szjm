@@ -1,7 +1,15 @@
 # ¡Holaaa! Soy José Martín Serrato Zamora 👋
+## 
+😄 Soy alumno de la UPA (Universidad Politecnica de Aguascalientes)
+Este repositorio tiene la finalidad de trabajar la parte de python y git que aun no he dominado
+Estudie la preparatoria en Michoacan, en una escuela privada llamada "Preparatoria José Sixto Verduzco".
 
-Soy alumno de la UPA (Universidad Politecnica de Aguascalientes)
+💬 En mi formacion de preparatoria lleve un semestre de programacion en lenguajes como HTML y C++
 
+⚡ Me gusta aprender cosas nuevas y los autos 
+
+📫 Mi correo es up250337@alumnos.upa.edu.mx 
+<https://www.instagram.com/martn_srtz> 
 <!--
 **up250337szjm/up250337szjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
